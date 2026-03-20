@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-container {
+    width: 100vw;
+    height: 25vh;
+    background-color: #ffffff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 16px;
+}
+
+.card-heading {
+    font-size: 20px;
+    font-family: "bree serif";
+    font-weight: 6px;
+    color: #5752ab;
+    font-weight: bold;
+}
+
+.card-paragraph {
+    color: #323f4b;
+    font-size: 12px;
+    font-family: "Roboto";
+}
+
+.card-button-first {
+    background-color: #ffffff;
+    font-size: 12px;
+    border-width: 1px;
+    border-radius: 3px;
+    color: black;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    margin-bottom: 35px;
+}
+
+.card-button-second {
+    color: white;
+    background-color: #5752ab;
+    font-size: 12px;
+    border-width: 1px;
+    border-radius: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    margin-right: 30px;
+    border-color: #5752ab;
+    margin-bottom: 35px;
+
+}
+
+
+
+
+
+
+
+
+
+}
